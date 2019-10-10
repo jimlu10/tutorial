@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f6ce35c-6666-42bb-9700-110bfee89190" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Clojure Namespace" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1RyV225y5uiHgOWeUl0R77bLu6p" />
+  <component name="PropertiesComponent">
+    <property name="cursive.last.file.extension./Users/jimlu/IdeaProjects/tutorial/src" value="clj" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="ReplState" timestamp="1570683100582">{:repl-history {:ide [], :local [{:command &quot;(println 'hw')&quot;, :offset 14, :ns &quot;tutorial.core&quot;} {:command &quot;(println \&quot;hw\&quot;)&quot;, :offset 14, :ns &quot;tutorial.core&quot;} {:command &quot;(+ 2 3)&quot;, :offset 7, :ns &quot;tutorial.core&quot;} {:command &quot;(-main)&quot;, :offset 7, :ns &quot;tutorial.functions&quot;} {:command &quot;(#(println \&quot;Hello\&quot; % ) \&quot;John\&quot;)&quot;, :offset 30, :ns &quot;tutorial.functions&quot;} {:command &quot;(increment_set [2,3,4,5,6,7])&quot;, :offset 29, :ns &quot;tutorial.functions&quot;} {:command &quot;(increment_set)&quot;, :offset 15, :ns &quot;tutorial.functions&quot;} {:command &quot;(increment_set_with_params [2,3,4,5,6,7])&quot;, :offset 41, :ns &quot;tutorial.functions&quot;} {:command &quot;(ages)&quot;, :offset 6, :ns &quot;tutorial.pet-ages&quot;} {:command &quot;(human_to_pet \&quot;dog\&quot; 10)&quot;, :offset 23, :ns &quot;tutorial.pet-ages&quot;} {:command &quot;human_to_pet&quot;, :offset 12, :ns &quot;tutorial.functions&quot;} {:command &quot;(human_to_pet \&quot;dog\&quot;, 10)&quot;, :offset 24, :ns &quot;tutorial.functions&quot;} {:command &quot;(aferages&quot;, :offset 9, :ns &quot;tutorial.functions&quot;} {:command &quot;(println (human_to_pet \&quot;dog\&quot;, 10))&quot;, :offset 34, :ns &quot;tutorial.functions&quot;} {:command &quot;(human_to_pet)&quot;, :offset 14, :ns &quot;tutorial.core&quot;} {:command &quot;increment&quot;, :offset 9, :ns &quot;tutorial.core&quot;} {:command &quot;ages&quot;, :offset 4, :ns &quot;tutorial.pet-ages&quot;} {:command &quot;(macroexpand-1 '(when true (println \&quot;Hello\&quot;)))&quot;, :offset 46, :ns &quot;tutorial.namespaces&quot;}], :remote []}}</component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Repl" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <module name="tutorial" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <environment name="http_proxy" value="http://172.16.0.138:8888" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Local" activateToolWindowBeforeRun="false">
+      <module name="tutorial" />
+      <setting name="replType" value="NREPL" />
+      <setting name="execution" value="LEININGEN" />
+      <setting name="jvmArgs" value="" />
+      <setting name="parameters" value="" />
+      <environment name="http_proxy" value="http://172.16.0.138:8888" />
+      <setting name="workingDir" value="$PROJECT_DIR$" />
+      <setting name="profiles" value="" />
+      <setting name="aliases" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="ClojureREPL" factoryName="Remote" activateToolWindowBeforeRun="false">
+      <setting name="host" value="" />
+      <setting name="port" value="0" />
+      <setting name="replType" value="0" />
+      <module name="" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f6ce35c-6666-42bb-9700-110bfee89190" name="Default Changelist" comment="" />
+      <created>1570639111506</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570639111506</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/tutorial/functions.clj</url>
+          <line>10</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
